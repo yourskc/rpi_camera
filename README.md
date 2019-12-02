@@ -1,5 +1,5 @@
 # rpi_camera
-The script for Raspberry Pi video streaming
+A python3 script file for Raspberry Pi video streaming
 
 
 ## 1. Purpose
