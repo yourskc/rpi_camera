@@ -23,6 +23,7 @@ A python3 script file for Raspberry Pi video streaming
 	 
 ## 5. for Raspbian Lite
 
+	login as default user/pass: pi/raspberry
 	run raspi-config to enable camera
 	sudo apt install git
 	sudo apt install python3-picamera
