@@ -3,7 +3,8 @@ A python3 script file for Raspberry Pi video streaming
 
 ## 1. Purpose
 
-	A python3 script running on Raspberry Pi to be a video streaming server
+	A python3 script running on Raspberry Pi to be a video streaming server, automatically recording or controled with button
+and led.
 
 ## 2. Prepare the camera
 	Please reference 
