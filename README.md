@@ -49,8 +49,46 @@ A python3 script file for Raspberry Pi video streaming
 
 	connect the two Raspberry Pi with one Ethernet cable
 
+## 8. automatically start recording
+	replace rpi_camera.py with rpi_camera_auto.py, that is, 
+	cp rpi_camera_auto.py rpi_camera.py
+
+	When you want to change it next time,
+	ps -ef | grep rpi ( check the {process ID} )
+	sudo kill {process ID}
+
+## 9. control with button and led
+	replace rpi_camera.py with rpi_camera_btn.py, that is, 
+	cp rpi_camera_btn.py rpi_camera.py	
+
+	sudo apt-get install rpi.gpio
+	
+	connect 2 pins of led to Ground and PIN#11
+	connect 3 pins of button to  3.3V, Ground and PIN#12
+
+
+
+
+
+
+
+
+
 
 	
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
  
