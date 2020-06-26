@@ -40,7 +40,8 @@ and led.
 	sudo nano /etc/rc.local
 
 	add the followings,
-	python3 /home/pi/rpi_camera/rpi_camera.py
+	( sleep 10
+	python3 /home/pi/rpi_camera/rpi_camera.py ) &
 
 ## 7. connect two  Raspberry Pi through Ethernet
 	for the first one,
