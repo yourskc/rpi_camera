@@ -64,6 +64,10 @@
 
 ## 9. control with button and led
 
+	Each time the button is pressed, a new directory will be created
+	under record/ directory and all new images will be saved in the new
+	folder. 
+
 	replace rpi_camera.py with rpi_camera_btn.py, that is, 
 	cp rpi_camera_btn.py rpi_camera.py	
 
