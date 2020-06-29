@@ -1,13 +1,15 @@
 # rpi_camera
-A python3 script file for Raspberry Pi video streaming
+
+       A python3 script file for Raspberry Pi video streaming
 
 ## 1. Purpose
 
-	A python3 script running on Raspberry Pi to be a video streaming server, automatically recording or controled with button
-and led.
+	A python3 script running on Raspberry Pi to be a video streaming server, automatically recording or controled with button   	
+         and led.
 
 ## 2. Prepare the camera
-	Please reference 
+
+        Please reference 
 	https://randomnerdtutorials.com/video-streaming-with-raspberry-pi-camera/
  
 ## 3. Start video streaming in 2592x1944 resolution
