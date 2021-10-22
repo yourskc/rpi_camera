@@ -13,8 +13,8 @@ import RPi.GPIO as GPIO
 import os
 
 # Led pin, left 5:ground, 6 pin11
-LedPin = 11
-BtnPin = 12
+LedPin = 13
+BtnPin = 12   # normal high(1), low(0) when pressed
 
 PAGE="""\
 <html>
